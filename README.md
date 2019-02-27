@@ -3,7 +3,7 @@ This repository provides a reference implementation of *Event2vec* as described 
 
 ### Environment
 ```
-$ pip install -r requirments.txt
+$ pip install -r requirements.txt
 ```
 
 ### Basic Usage
